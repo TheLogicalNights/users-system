@@ -1,0 +1,13 @@
+.user-details {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+.user-details li {
+    list-style: none;
+    border: 1px solid rgba(77, 75, 75, 0.539);
+    padding: 0.5rem;
+}
